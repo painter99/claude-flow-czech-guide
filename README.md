@@ -1864,7 +1864,7 @@ Můžete dokument sdílet s plnou důvěrou v jeho kvalitu a přesnost, s vědom
 
 **🤖 Vytvořeno umělou inteligencí:** Tento kompletní dokument byl vytvořen Claude 4 Sonnet od Anthropic na základě systematické analýzy dostupných primárních zdrojů, komunitních diskuzí a technické dokumentace. Obsah prošel AI kontrolami s 90-95% odhadovanou přesností, ale nebyl fyzicky ověřen člověkem.
 
-**⚠️ Důležité upozornění:** Claude Flow v2.0.0 je rychle se vyvíjející alpha technologie. Některé funkce a příkazy se mohou změnit. Před použitím v produkčním prostředí doporučujeme vlastní testování a ověření všech postupů.
+**⚠️ Důležité upozornění:** Claude Flow v2.0.0 je rychle se vyvíjející alpha technologie. Některé funkce a příkazy se mohou změnit. Před použitím v produkčním prostředí doporučuji vlastní testování a ověření všech postupů.
 
 **📖 Účel dokumentu:** Tento dokument slouží jako komprehenzivní komunitní zdroj pro české vývojáře, kteří se zajímají o orchestraci vývojového procesu řízeného umělou inteligencí pomocí Claude Flow. Kombinuje oficiální technické informace s praktickými komunitními poznatky.
 
