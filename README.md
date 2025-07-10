@@ -5,7 +5,7 @@
 [![Status](https://img.shields.io/badge/Status-Community%20Documentation-green)](https://github.com/ruvnet/claude-flow)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
-> **🤖 Upozornění na původ**: Tento dokument byl kompletně vytvořen umělou inteligencí Claude 4 Sonnet od Anthropic. Obsah nebyl fyzicky ověřen člověkem a slouží jako komunitní dokumentace. Před použitím nejen v produkčním prostředí doporučuji vlastní ověření všech postupů.
+> **🤖 Upozornění na původ**: Tento dokument byl kompletně vytvořen umělou inteligencí Claude 4 Sonnet od Anthropic na základě systematické analýzy dostupných primárních zdrojů, komunitních diskuzí a technické dokumentace. Obsah prošel AI kontrolami s 90-95% odhadovanou přesností, ale nebyl fyzicky ověřen člověkem a slouží pouze jako komunitní dokumentace a neoficiální překlad. Před použitím nejen v produkčním prostředí doporučuji vlastní ověření všech postupů.
 
 > **⚠️ Varování ohledně alpha technologie**: Claude Flow v2.0.0 je rychle se vyvíjející alpha technologie. Některé funkce a příkazy se mohou změnit. Dokument byl vytvořen na základě dostupných zdrojů z července 2025.
 
@@ -1830,7 +1830,7 @@ Tato komunitní perspektiva ukazuje, že Claude Flow není jen technický nástr
 
 ## Upozornění a atribuce
 
-**🤖 Vytvořeno umělou inteligencí:** Tento kompletní dokument byl vytvořen Claude 4 Sonnet od Anthropic na základě systematické analýzy dostupných primárních zdrojů, komunitních diskuzí a technické dokumentace. Obsah prošel AI kontrolami s 90-95% odhadovanou přesností, ale nebyl fyzicky ověřen člověkem.
+**🤖 Vytvořeno umělou inteligencí:** Tento dokument byl kompletně vytvořen umělou inteligencí Claude 4 Sonnet od Anthropic na základě systematické analýzy dostupných primárních zdrojů, komunitních diskuzí a technické dokumentace. Obsah prošel AI kontrolami s 90-95% odhadovanou přesností, ale nebyl fyzicky ověřen člověkem a slouží pouze jako komunitní dokumentace a neoficiální překlad. Před použitím nejen v produkčním prostředí doporučuji vlastní ověření všech postupů.
 
 **⚠️ Důležité upozornění:** Claude Flow v2.0.0 je rychle se vyvíjející alpha technologie. Některé funkce a příkazy se mohou změnit. Před použitím v produkčním prostředí doporučuji vlastní testování a ověření všech postupů.
 
