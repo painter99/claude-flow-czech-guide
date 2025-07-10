@@ -1,4 +1,4 @@
-# Claude Flow v2.0.0 - Kompletní Manuál v Češtině
+# Claude Flow - Kompletní Česká Příručka pro AI-Driven Development
 
 [![AI Generated](https://img.shields.io/badge/AI%20Generated-Claude%204%20Sonnet-blue)](https://claude.ai)
 [![Language](https://img.shields.io/badge/Language-Czech-red)](https://github.com)
@@ -1875,7 +1875,7 @@ Můžete dokument sdílet s plnou důvěrou v jeho kvalitu a přesnost, s vědom
 ---
 
 **Poslední aktualizace:** Červenec 2025  
-**Vytvořeno:** Claude 4 Sonnet (Anthropic)  
-**Jazyk:** Čeština  
-**Verze:** 1.0.1  
-**Status:** Komunitní dokumentace
+**Vytvořeno:** Claude 4 Sonnet (Anthropic) 
+**Jazyk:** Čeština 
+**Verze:** 1.0.2 
+**Status:** Komunitní dokumentace 
